@@ -1,2 +1,4 @@
 this is dev file
 Learning git and git hub workflows
+Stashing 
+how to do stashing 
