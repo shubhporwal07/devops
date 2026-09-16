@@ -1,0 +1,1 @@
+Digital Signature feature users can sign documents digitally
