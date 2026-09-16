@@ -1,0 +1,8 @@
+working with ai 
+this is dev file
+Learning git and git hub workflows
+Stashing 
+how to do stashing 
+stashing and new concept
+Continuous Integration and continuous deployment
+Daily project working and checking
